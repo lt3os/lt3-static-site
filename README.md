@@ -2,7 +2,7 @@
     <img alt="lt3 logo" src="https://avatars3.githubusercontent.com/u/60077349?s=200&v=4" width="60" />
 </p>
 <h1 align="center">
-  lt3 docs site
+  lt3 docs website
 </h1>
 
 **🛠 Developing**
@@ -18,7 +18,7 @@ gatsby develop
 
 Your site is now running at `http://localhost:8000`!
 
-_Note: You'll also see a second link: _`http://localhost:8000/___graphql`\_. This is a tool you can use to experiment with querying your data.
+Note: You'll also see a second link: \_`http://localhost:8000/___graphql`\_. This is a tool you can use to experiment with querying your data.
 
 **🏗 Building**
 
@@ -34,7 +34,7 @@ You can see a production like instance of the running docs site by running:
 gatsby serve
 ```
 
-And navigating to http://localhost:9000
+Then navigating to http://localhost:9000
 
 **🚀 Deploying**
 TODO
